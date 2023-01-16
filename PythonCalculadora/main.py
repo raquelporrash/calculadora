@@ -26,6 +26,8 @@ while True :
         
         7.- Coseno
         
+        8.- Salir
+        
         """)
 
 
@@ -75,6 +77,10 @@ while True :
                                     print(" Resultado : ")
 
                                     print(np.cos(numeroUno))
+        if opci == 8:
+                                    print(" ")
+                                    print(" Saliendo de la calculadora. ")
+                                    break
 
 
 
