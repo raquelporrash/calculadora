@@ -1,0 +1,20 @@
+Se realiza calculadora.
+
+Se agrega While para seleccionar opción.
+
+Se agrega menú:
+1.- suma
+2.- Resta
+3.- Multiplicación
+4.- División
+5.- Raíz
+6.- Potencia
+7.- Coseno
+
+Raquel Berenice Porras Hurtado
+
+
+
+
+
+
