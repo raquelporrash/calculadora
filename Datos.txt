@@ -1,5 +1,6 @@
 Se realiza calculadora.
 
+Se agrega While para seleccionar opción.
 
 
 
